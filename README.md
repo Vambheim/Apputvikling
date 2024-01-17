@@ -1,6 +1,5 @@
-This the project submission for INFT2508
-The purpose of this project was to create a food marketplace app using react native. 
-
+This is the project submission for INFT2508
+The purpose of this project was to create a food marketplace app using react native. The application also makes use of internalization of data into the unit used. Implicit of this, the application features dark and light mode, and mulit-langual support. 
 Setup (IOS): 
 npm install
 cd ios; pod install
