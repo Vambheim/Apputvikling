@@ -1,0 +1,232 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "name": "Cheeseburger",
+      "address": "Prinsengata 1, 7010 Trondheim",
+      "price": 150,
+      "sellerinfo": "94562273",
+      "country": "USA",
+      "image": "https://s.tihlde.org/burger",
+      "data": [
+        {
+          "ingredients": "Bread, Meat, Tomato Cheese",
+          "allergens": "Egg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pizza",
+      "address": "Klostergata 70, 7030 Trondheim",
+      "price": 250,
+      "sellerinfo": "99451203",
+      "country": "Italy",
+      "image": "https://s.tihlde.org/pizza",
+      "data": [
+        {
+          "ingredients": "Bread, Meat, Tomato Cheese",
+          "allergens": "Egg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kebab",
+      "address": "Klostergata 70, 7030 Trondheim",
+      "price": 250,
+      "sellerinfo": "47189023",
+      "country": "USA",
+      "image": "https://s.tihlde.org/kebab",
+      "data": [
+        {
+          "ingredients": "Bread, Meat, Tomato Cheese",
+          "allergens": "Egg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sushi",
+      "address": "Klostergata 70, 7030 Trondheim",
+      "price": 250,
+      "sellerinfo": "95236784",
+      "country": "Japan",
+      "image": "https://s.tihlde.org/sushi",
+      "data": [
+        {
+          "ingredients": "Bread, Meat, Tomato Cheese",
+          "allergens": "Egg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Ramen",
+      "address": "Klostergata 70, 7030 Trondheim",
+      "price": 250,
+      "sellerinfo": "94763210",
+      "country": "Japan",
+      "image": "https://s.tihlde.org/ramen",
+      "data": [
+        {
+          "ingredients": "Bread, Meat, Tomato Cheese",
+          "allergens": "Egg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Pho",
+      "address": "Klostergata 70, 7030 Trondheim",
+      "price": 250,
+      "sellerinfo": "94763210",
+      "country": "Vietnam",
+      "image": "https://s.tihlde.org/pho",
+      "data": [
+        {
+          "ingredients": "Bread, Meat, Tomato Cheese",
+          "allergens": "Egg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Pinnekjøtt",
+      "address": "Klostergata 70, 7030 Trondheim",
+      "price": 250,
+      "sellerinfo": "48567123",
+      "country": "Norway",
+      "image": "https://s.tihlde.org/pinnekjott",
+      "data": [
+        {
+          "ingredients": "Bread, Meat, Tomato Cheese",
+          "allergens": "Egg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Ribbe",
+      "address": "Klostergata 70, 7030 Trondheim",
+      "price": 250,
+      "sellerinfo": "94568273",
+      "country": "Norway",
+      "image": "https://s.tihlde.org/ribbe",
+      "data": [
+        {
+          "ingredients": "Bread, Meat, Tomato Cheese",
+          "allergens": "Egg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Pasta",
+      "address": "Klostergata 70, 7030 Trondheim",
+      "price": 250,
+      "sellerinfo": "94568273",
+      "country": "Italy",
+      "image": "https://s.tihlde.org/pasta",
+      "data": [
+        {
+          "ingredients": "Bread, Meat, Tomato Cheese",
+          "allergens": "Egg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Hot dog",
+      "address": "Klostergata 70, 7030 Trondheim",
+      "price": 250,
+      "sellerinfo": "94568273",
+      "country": "USA",
+      "image": "https://s.tihlde.org/polse",
+      "data": [
+        {
+          "ingredients": "Bread, Meat, Tomato Cheese",
+          "allergens": "Egg"
+        }
+      ]
+    }
+  ],
+  "shoppingcart": [],
+  "bookmarks": [
+    {
+      "id": 1,
+      "name": "Cheeseburger",
+      "address": "Prinsengata 1, 7010 Trondheim",
+      "price": 150,
+      "sellerinfo": "94562273",
+      "country": "USA",
+      "image": "https://s.tihlde.org/burger",
+      "data": [
+        {
+          "ingredients": "Bread, Meat, Tomato Cheese",
+          "allergens": "Egg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Ribbe",
+      "address": "Klostergata 70, 7030 Trondheim",
+      "price": 250,
+      "sellerinfo": "94568273",
+      "country": "Norway",
+      "image": "https://s.tihlde.org/ribbe",
+      "data": [
+        {
+          "ingredients": "Bread, Meat, Tomato Cheese",
+          "allergens": "Egg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sushi",
+      "address": "Klostergata 70, 7030 Trondheim",
+      "price": 250,
+      "sellerinfo": "95236784",
+      "country": "Japan",
+      "image": "https://s.tihlde.org/sushi",
+      "data": [
+        {
+          "ingredients": "Bread, Meat, Tomato Cheese",
+          "allergens": "Egg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Pho",
+      "address": "Klostergata 70, 7030 Trondheim",
+      "price": 250,
+      "sellerinfo": "94763210",
+      "country": "Vietnam",
+      "image": "https://s.tihlde.org/pho",
+      "data": [
+        {
+          "ingredients": "Bread, Meat, Tomato Cheese",
+          "allergens": "Egg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kebab",
+      "address": "Klostergata 70, 7030 Trondheim",
+      "price": 250,
+      "sellerinfo": "47189023",
+      "country": "USA",
+      "image": "https://s.tihlde.org/kebab",
+      "data": [
+        {
+          "ingredients": "Bread, Meat, Tomato Cheese",
+          "allergens": "Egg"
+        }
+      ]
+    }
+  ]
+}
